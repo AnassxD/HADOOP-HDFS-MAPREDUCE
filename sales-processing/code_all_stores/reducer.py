@@ -23,4 +23,4 @@ for line in sys.stdin:
     salesNum += 1
 
 print salesTotal, "\t", salesNum
-
+################
